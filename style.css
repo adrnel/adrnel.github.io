@@ -1,0 +1,30 @@
+#sketch-holder {
+    margin: 50px;
+}
+
+.p5Canvas {
+    display: block;
+    margin: auto;
+}
+
+.button-container {
+    margin: 50px auto auto;
+    display: flex;
+    justify-content: space-between;
+    max-width: 450px;
+}
+
+.radio-container {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+    min-height: 37px;
+    max-height: 37px;
+}
+
+button {
+    font-size: 20px;
+}
